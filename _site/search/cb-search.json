@@ -23,6 +23,46 @@
 		"url" : "/archivers/TIMESranking"
 	}
 	
+	,
+	
+    
+	{
+		"title" : "中国科教评价网 2016-2017年中国本科院校竞争力总排行榜800强(1-300) - rankings",
+		"url" : "/archivers/NSEAC2016ranking-20160720105047"
+	}
+	
+	,
+	
+    
+	{
+		"title" : "中国科教评价网 2015年中国大学本科院校竞争力总排行榜900强(1-300) - rankings",
+		"url" : "/archivers/NSEAC2015ranking-20160720105047"
+	}
+	
+	,
+	
+    
+	{
+		"title" : "复旦大学医院管理研究所网站 2014年度医院排行榜 - rankings",
+		"url" : "/archivers/FUDANMEDranking-20160720105920"
+	}
+	
+	,
+	
+    
+	{
+		"title" : "中国校友会网 2016中国大学排行榜700强，北大清华复旦蝉联三甲 - rankings",
+		"url" : "/archivers/CUAA2016ranking-20160718150829"
+	}
+	
+	,
+	
+    
+	{
+		"title" : "中国校友会网 2015中国大学排行榜700强揭晓, 北京大学连续八年蝉联第一 - rankings",
+		"url" : "/archivers/CUAA2015ranking-20160718144806"
+	}
+	
     
 	]
 }
